@@ -1,4 +1,4 @@
-# 🚀 Banglish Compiler
+# 🚀 Kustom Banglish Compiler
 
 A unique programming language that combines **Bengali** and **English** keywords, making programming more accessible and intuitive for Bengali speakers.
 
