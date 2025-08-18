@@ -26,7 +26,7 @@ A unique programming language that combines **Bengali** and **English** keywords
 
 ### Installation
 
-1. **Download**: Save the `Mini_compiler.html` file to your computer
+1. **Download**: Save the `customCompiler.html` file to your computer
 2. **Open**: Double-click the file or open it in any modern web browser
 3. **Start Coding**: The compiler is ready to use immediately!
 
